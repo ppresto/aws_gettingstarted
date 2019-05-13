@@ -1,0 +1,14 @@
+.git
+# MacOS/OS-X hidden file.
+.DS_Store
+
+# .idea is for IntelliJ.
+.idea
+
+# Terraform
+.terraform
+.tfstate
+
+# certificates/credentials
+
+*.aws_secrets

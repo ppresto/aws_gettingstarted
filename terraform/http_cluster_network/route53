@@ -1,0 +1,13 @@
+{
+    "Location": "https://route53.amazonaws.com/2013-04-01/delegationset/N32FVTUBI56RRL",
+    "DelegationSet": {
+        "NameServers": [
+            "ns-100.awsdns-12.com",
+            "ns-1136.awsdns-14.org",
+            "ns-1630.awsdns-11.co.uk",
+            "ns-949.awsdns-54.net"
+        ],
+        "CallerReference": "1224",
+        "Id": "/delegationset/N32FVTUBI56RRL"
+    }
+}
